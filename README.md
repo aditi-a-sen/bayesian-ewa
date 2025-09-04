@@ -1,7 +1,4 @@
----
-title: "Model Parameters Generation BothSessions"
-output: html_notebook
----
+
 
 # Documentation for Model Parameters
 
